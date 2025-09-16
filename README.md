@@ -1,4 +1,0 @@
-# Aula_1
-ADICIONADO 1 LINHA
-## modificar linha
-ADICIONADP 2 LINHAS
